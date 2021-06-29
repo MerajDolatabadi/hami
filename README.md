@@ -1,1 +1,2 @@
 # hami
+system.out.print
